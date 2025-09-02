@@ -64,7 +64,7 @@ To run **Net Ninja**, you need:
 ---
 
 ## 📥 Installation
-1. Download `net_ninja.bat` from this repository.  
+1. Download `Net_Ninja.bat` from this repository.  
 2. Place it in a folder where you can easily access it (e.g., `Desktop` or `C:\Tools`).  
 3. Make sure you have permission to run `.bat` files on your system.  
 
@@ -85,4 +85,33 @@ To run **Net Ninja**, you need:
 
 3. **Run the script**
    ```bat
-   net_ninja.bat
+   Net_Ninja.bat
+---
+## 📥 Download Net Ninja
+
+You can download the **Net Ninja** batch file from the link below.  
+⚠ **Note:** This tool is completely safe and designed for networking tasks only.  
+Windows may still show a warning because `.bat` files can run system commands — this is normal, and not a sign of danger.  
+We encourage you to **review the code first** before running it.
+
+[![Download Net Ninja](https://img.shields.io/badge/Download-Net_Ninja.bat-blue?style=for-the-badge&logo=windows)](https://raw.githubusercontent.com/Bishal-Prasad/Net-Ninja/refs/heads/main/Net_Ninja.bat)
+
+---
+
+### 🛡 Safety Notice
+Before running:
+- 📄 You can **view the script here** → [Open Net_Ninja.bat on GitHub](https://github.com/Bishal-Prasad/Net-Ninja/blob/main/Net_Ninja.bat)
+- This script does **not** collect personal information or perform any harmful actions.
+- Windows shows a warning for batch files as a general precaution, even for safe ones.
+- Use only on systems you own or have permission to work on.
+
+---
+## 📜 Disclaimer
+
+This project is developed **solely for educational purposes** and to simplify the execution of networking commands without the need to type lengthy commands manually.  
+
+- ❌ It must **not** be used for illegal, harmful, or malicious activities.  
+- ✅ Intended use is for learning, troubleshooting, and legitimate administrative tasks only.  
+- ⚠ The author assumes **no responsibility** for any misuse or consequences arising from the use of this tool.  
+
+**Please use this tool responsibly and ethically.**
