@@ -89,7 +89,12 @@ To run **Net Ninja**, you need:
 ---
 ## 📥 Download Net Ninja
 
-You can download the **Net Ninja** batch file from the link below.  
+You can download the **Net Ninja** batch file by following these steps:  
+
+1. Open the file page here: [Net_Ninja.bat](https://github.com/Bishal-Prasad/Net-Ninja/blob/main/Net_Ninja.bat)  
+2. Click on the **Download** button, or click **Raw** and then press `Ctrl + S` to save the file.  
+3. **Important:** When saving, rename the file to `Net_Ninja.bat` (if it’s saved as `.txt`, change the extension to `.bat`).  
+
 ⚠ **Note:** This tool is completely safe and designed for networking tasks only.  
 Windows may still show a warning because `.bat` files can run system commands — this is normal, and not a sign of danger.  
 We encourage you to **review the code first** before running it.
