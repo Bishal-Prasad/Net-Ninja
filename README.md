@@ -94,7 +94,8 @@ You can download the **Net Ninja** batch file from the link below.
 Windows may still show a warning because `.bat` files can run system commands — this is normal, and not a sign of danger.  
 We encourage you to **review the code first** before running it.
 
-[![Download Net Ninja](https://img.shields.io/badge/Download-Net_Ninja.bat-blue?style=for-the-badge&logo=windows)](https://raw.githubusercontent.com/Bishal-Prasad/Net-Ninja/refs/heads/main/Net_Ninja.bat)
+[![Download Net Ninja](https://img.shields.io/badge/Download-Net_Ninja.bat-blue?style=for-the-badge&logo=windows)](https://github.com/Bishal-Prasad/Net-Ninja/raw/main/Net_Ninja.bat)
+
 
 ---
 
