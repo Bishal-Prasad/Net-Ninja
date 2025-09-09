@@ -87,6 +87,14 @@ To run **Net Ninja**, you need:
    ```bat
    Net_Ninja.bat
 ---
+## 💡 Tips & Tricks
+- Run `Net_Ninja.bat` as **Administrator** for full access to networking commands.
+- Edit the `.bat` file to **add or remove menu options** — it’s fully customizable.
+- Use `pause` inside commands to see output before the window closes.
+- You can integrate this tool with **Windows Task Scheduler** for automated network checks.
+- Pair it with `log` commands to save results of tests into `.txt` files.
+
+---
 ## 📥 Download Net Ninja
 
 You can download the **Net Ninja** batch file by following these steps:  
