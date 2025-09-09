@@ -69,6 +69,16 @@ To run **Net Ninja**, you need:
 2. Click **Code → Download ZIP**  
 3. Extract the ZIP file  
 4. Double-click `Net_Ninja.bat` to run  
+
+---
+
+### Method 2 – Installation via Git Clone
+If you have **Git** installed:
+```bash
+  git clone https://github.com/Bishal-Prasad/Net-Ninja.git
+  cd Net-Ninja
+  Net_Ninja.bat
+  ```
 ---
 <!-- Banner Image -->
 <p align="center">
