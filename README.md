@@ -62,12 +62,13 @@ To run **Net Ninja**, you need:
 - Permissions to execute `.bat` files  
 
 ---
-
 ## 📥 Installation
-1. Download `Net_Ninja.bat` from this repository.  
-2. Place it in a folder where you can easily access it (e.g., `Desktop` or `C:\Tools`).  
-3. Make sure you have permission to run `.bat` files on your system.  
 
+### Method 1 – Manual Download
+1. Go to the repo: [Net Ninja GitHub](https://github.com/Bishal-Prasad/Net-Ninja)  
+2. Click **Code → Download ZIP**  
+3. Extract the ZIP file  
+4. Double-click `Net_Ninja.bat` to run  
 ---
 <!-- Banner Image -->
 <p align="center">
