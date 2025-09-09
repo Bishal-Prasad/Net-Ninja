@@ -92,8 +92,7 @@ To run **Net Ninja**, you need:
 - Edit the `.bat` file to **add or remove menu options** — it’s fully customizable.
 - Use `pause` inside commands to see output before the window closes.
 - You can integrate this tool with **Windows Task Scheduler** for automated network checks.
-- Pair it with `log` commands to save results of tests into `.txt` files.
-
+  
 ---
 ## 📥 Download Net Ninja
 
